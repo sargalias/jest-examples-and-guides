@@ -88,7 +88,6 @@ If needed, you can disable the Git hook by deleting the **.huskyrc** file, or us
 I used the [Front end project starter](https://github.com/sargalias/front-end-project-starter) repository as the basis for this project.
 
 - [Jest](https://github.com/facebook/jest) - Test framework
-  - [identity-obj-proxy](https://github.com/keyz/identity-obj-proxy) - To allow us to see CSS classes in the DOM
 - [ESLint](https://github.com/eslint/eslint) - JavaScript static code analysis
   - [eslint-config-airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) - Aribnb's .eslintrc
   - [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - For using Prettier with ESLint
