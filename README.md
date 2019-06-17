@@ -81,7 +81,7 @@ For every option and configuration, please see the relevant documentation. E.g. 
 
 There is a pretty aggressive Git hook which runs the entire build process for every commit, ensuring linting and tests pass.
 
-If needed, you can disable the Git hook by deleting the **.huskyrc** file, or using the `--no-verify` flag during commits. E.g.
+If needed, you can disable the Git hook by deleting the **.huskyrc** file, or using the `--no-verify` flag during commits.
 
 ## Built with
 
