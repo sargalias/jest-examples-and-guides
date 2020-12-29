@@ -1,6 +1,6 @@
 # ES6 module mocks
 
-This guide depends on knowing the basics of `jest.mock`. Before reading this guide please see [[LINK TO OTHER GUIDE]] or the API for [jest.mock](https://jestjs.io/docs/en/jest-object#jestmockmodulename-factory-options).
+This guide depends on knowing the basics of `jest.mock`. Before reading this guide please see the guide to the basic-module-mocks file or the API for [jest.mock](https://jestjs.io/docs/en/jest-object#jestmockmodulename-factory-options).
 
 Mocking ES6 modules in tests can have a few gotchas.
 
